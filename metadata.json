@@ -1,0 +1,8 @@
+{
+  "name": "ReelGuard: Instagram Reel Counter & Health Coach",
+  "description": "Android digital wellbeing app that monitors Instagram Reels scrolled, fires mindful stop alerts, provides dopamine & eye health feedback, and generates insightful weekly usage reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
